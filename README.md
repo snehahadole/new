@@ -1,3 +1,3 @@
 # new
 this is my new repo
-my name is sneha 
+ heyy my name is sneha 
